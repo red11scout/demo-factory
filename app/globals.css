@@ -61,7 +61,9 @@ html,
 body {
   background: var(--color-ink);
   color: var(--color-fg);
-  font-family: var(--font-sans);
+  /* Reference next/font's --font-dm-sans directly: @theme inline doesn't
+     expose --font-sans / --font-display as runtime CSS vars. */
+  font-family: var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -87,12 +89,18 @@ body::after {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
-.font-display { font-family: var(--font-display); font-weight: 600; letter-spacing: -0.01em; }
-.font-mono { font-family: var(--font-mono); }
+.font-display {
+  font-family: var(--font-dm-sans), ui-sans-serif, system-ui, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.font-mono {
+  font-family: var(--font-jetbrains), ui-monospace, monospace;
+}
 
 /* tracked, small uppercase eyebrow */
 .eyebrow {
-  font-family: var(--font-mono);
+  font-family: var(--font-jetbrains), ui-monospace, monospace;
   text-transform: uppercase;
   letter-spacing: 0.22em;
   font-size: 0.66rem;
