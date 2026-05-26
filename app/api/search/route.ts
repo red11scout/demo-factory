@@ -33,6 +33,18 @@ function rowsOf(result: unknown): Row[] {
 }
 
 export async function POST(req: Request) {
+  try {
+    return await handle(req);
+  } catch (e) {
+    const err = e as Error;
+    return NextResponse.json(
+      { error: err.message, name: err.name, stack: (err.stack ?? "").split("\n").slice(0, 5) },
+      { status: 500 },
+    );
+  }
+}
+
+async function handle(req: Request) {
   const { query } = (await req.json()) as { query: string };
   if (!query?.trim()) {
     return NextResponse.json({ error: "Empty query" }, { status: 400 });
