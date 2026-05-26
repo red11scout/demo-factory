@@ -1,0 +1,589 @@
+[
+  {
+    "record_id": "LSE-2019-0847",
+    "record_type": "source_lease",
+    "property_address": "1250 Commerce Street, Suite 400, Dallas, TX 75201",
+    "tenant_name": "Apex Financial Advisors LLC",
+    "landlord_name": "Commerce Tower Holdings Inc",
+    "lease_commencement": "2019-06-01",
+    "lease_expiration": "2024-05-31",
+    "square_footage": 8500,
+    "base_rent_schedule": [
+      {
+        "period": "2019-06-01 to 2020-05-31",
+        "monthly_rate": 21250,
+        "psf_annual": 30
+      },
+      {
+        "period": "2020-06-01 to 2021-05-31",
+        "monthly_rate": 21975,
+        "psf_annual": 31.03
+      },
+      {
+        "period": "2021-06-01 to 2022-05-31",
+        "monthly_rate": 22700,
+        "psf_annual": 32.05
+      },
+      {
+        "period": "2022-06-01 to 2023-05-31",
+        "monthly_rate": 23460,
+        "psf_annual": 33.12
+      },
+      {
+        "period": "2023-06-01 to 2024-05-31",
+        "monthly_rate": 24225,
+        "psf_annual": 34.2
+      }
+    ],
+    "renewal_option": "One 5-year option at 95% of fair market value, notice required 12 months prior to expiration",
+    "permitted_use": "General office use for financial advisory services only",
+    "restrictive_clauses": [
+      "No signage visible from street level without landlord approval",
+      "Tenant may not sublease more than 25% of premises without consent",
+      "Prohibited uses: retail sales, food service, medical practice"
+    ],
+    "status": "expired",
+    "notes": "Lease expired 2024-05-31, tenant vacated, no renewal exercised"
+  },
+  {
+    "record_id": "LSE-2021-1203",
+    "record_type": "source_lease",
+    "property_address": "5800 Granite Parkway, Building 2, Plano, TX 75024",
+    "tenant_name": "TechVenture Solutions Inc",
+    "landlord_name": "Granite Park Properties LLC",
+    "lease_commencement": "2021-09-01",
+    "lease_expiration": "2028-08-31",
+    "square_footage": 14200,
+    "base_rent_schedule": [
+      {
+        "period": "2021-09-01 to 2022-08-31",
+        "monthly_rate": 35500,
+        "psf_annual": 30
+      },
+      {
+        "period": "2022-09-01 to 2023-08-31",
+        "monthly_rate": 36590,
+        "psf_annual": 30.92
+      },
+      {
+        "period": "2023-09-01 to 2024-08-31",
+        "monthly_rate": 37680,
+        "psf_annual": 31.84
+      },
+      {
+        "period": "2024-09-01 to 2025-08-31",
+        "monthly_rate": 38805,
+        "psf_annual": 32.79
+      },
+      {
+        "period": "2025-09-01 to 2026-08-31",
+        "monthly_rate": 39965,
+        "psf_annual": 33.77
+      },
+      {
+        "period": "2026-09-01 to 2027-08-31",
+        "monthly_rate": 41160,
+        "psf_annual": 34.78
+      },
+      {
+        "period": "2027-09-01 to 2028-08-31",
+        "monthly_rate": 42390,
+        "psf_annual": 35.82
+      }
+    ],
+    "renewal_option": "Two consecutive 5-year options at market rate, 9 months notice required",
+    "permitted_use": "Software development, IT consulting, and related office activities",
+    "restrictive_clauses": [
+      "Tenant responsible for HVAC maintenance after hours",
+      "No alterations exceeding $50,000 without landlord written consent",
+      "Exclusive parking: 42 spaces in north lot"
+    ],
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "record_id": "LSE-2020-0562",
+    "record_type": "source_lease",
+    "property_address": "920 Main Street, Ground Floor, Houston, TX 77002",
+    "tenant_name": "Urban Grind Coffee Co",
+    "landlord_name": "Downtown Houston Retail Partners",
+    "lease_commencement": "2020-03-15",
+    "lease_expiration": "2030-03-14",
+    "square_footage": 2800,
+    "base_rent_schedule": [
+      {
+        "period": "2020-03-15 to 2021-03-14",
+        "monthly_rate": 8400,
+        "psf_annual": 36
+      },
+      {
+        "period": "2021-03-15 to 2022-03-14",
+        "monthly_rate": 8652,
+        "psf_annual": 37.08
+      },
+      {
+        "period": "2022-03-15 to 2023-03-14",
+        "monthly_rate": 8904,
+        "psf_annual": 38.16
+      },
+      {
+        "period": "2023-03-15 to 2024-03-14",
+        "monthly_rate": 9170,
+        "psf_annual": 39.3
+      },
+      {
+        "period": "2024-03-15 to 2025-03-14",
+        "monthly_rate": 9445,
+        "psf_annual": 40.48
+      }
+    ],
+    "percentage_rent": "6% of gross sales exceeding $1,400,000 annually",
+    "renewal_option": "None",
+    "permitted_use": "Coffee shop and light food service",
+    "restrictive_clauses": [
+      "Operating hours: minimum 6:00 AM to 6:00 PM weekdays",
+      "Landlord retains right to lease adjacent space to competing coffee retailer",
+      "Tenant must maintain liability insurance minimum $2,000,000"
+    ],
+    "status": "active",
+    "notes": "Percentage rent triggered in 2022 and 2023"
+  },
+  {
+    "record_id": "LSE-2022-0934",
+    "record_type": "source_lease",
+    "property_address": "3400 Westheimer Road, Suite 210, Houston, TX 77027",
+    "tenant_name": "Prestige Law Group PLLC",
+    "landlord_name": "Westheimer Office Investors",
+    "lease_commencement": "2022-01-01",
+    "lease_expiration": "2027-12-31",
+    "square_footage": 6750,
+    "base_rent_schedule": [
+      {
+        "period": "2022-01-01 to 2022-12-31",
+        "monthly_rate": 0,
+        "psf_annual": 0,
+        "abatement": true
+      },
+      {
+        "period": "2023-01-01 to 2023-12-31",
+        "monthly_rate": 16875,
+        "psf_annual": 30
+      },
+      {
+        "period": "2024-01-01 to 2024-12-31",
+        "monthly_rate": 17550,
+        "psf_annual": 31.2
+      },
+      {
+        "period": "2025-01-01 to 2025-12-31",
+        "monthly_rate": 18225,
+        "psf_annual": 32.4
+      },
+      {
+        "period": "2026-01-01 to 2026-12-31",
+        "monthly_rate": 18900,
+        "psf_annual": 33.6
+      },
+      {
+        "period": "2027-01-01 to 2027-12-31",
+        "monthly_rate": 19575,
+        "psf_annual": 34.8
+      }
+    ],
+    "renewal_option": "One 3-year option at 97% FMV, 12 months notice",
+    "permitted_use": "Legal office only",
+    "restrictive_clauses": [
+      "Tenant improvement allowance: $40 per SF ($270,000 total)",
+      "Signage: building directory only, no exterior signage permitted",
+      "Quiet hours: no construction or loud activity after 6 PM"
+    ],
+    "status": "active",
+    "notes": "First year rent abatement granted as lease incentive"
+  },
+  {
+    "record_id": "LSE-2018-0421",
+    "record_type": "source_lease",
+    "property_address": "7500 San Felipe Street, Suite 1100, Houston, TX 77063",
+    "tenant_name": "Meridian Capital Partners LLC",
+    "landlord_name": "San Felipe Plaza LP",
+    "lease_commencement": "2018-11-01",
+    "lease_expiration": "2023-10-31",
+    "square_footage": 11500,
+    "base_rent_schedule": [
+      {
+        "period": "2018-11-01 to 2019-10-31",
+        "monthly_rate": 26450,
+        "psf_annual": 27.6
+      },
+      {
+        "period": "2019-11-01 to 2020-10-31",
+        "monthly_rate": 27255,
+        "psf_annual": 28.44
+      },
+      {
+        "period": "2020-11-01 to 2021-10-31",
+        "monthly_rate": 28060,
+        "psf_annual": 29.28
+      },
+      {
+        "period": "2021-11-01 to 2022-10-31",
+        "monthly_rate": 28865,
+        "psf_annual": 30.12
+      },
+      {
+        "period": "2022-11-01 to 2023-10-31",
+        "monthly_rate": 29670,
+        "psf_annual": 30.96
+      }
+    ],
+    "renewal_option": "Two 5-year options at market rate, 12 months notice",
+    "permitted_use": "Investment advisory and asset management",
+    "restrictive_clauses": [
+      "Tenant may not conduct retail brokerage activities on premises",
+      "Conference room access limited to floors 10-12 only"
+    ],
+    "status": "expired",
+    "notes": "Expired 2023-10-31, tenant exercised first renewal option but documentation missing from registry"
+  },
+  {
+    "record_id": "LSE-2023-0088",
+    "record_type": "source_lease",
+    "property_address": "2200 Ross Avenue, Retail Space A, Dallas, TX 75201",
+    "tenant_name": "FreshBowl Organic Eatery",
+    "landlord_name": "Ross Avenue Retail LLC",
+    "lease_commencement": "2023-04-01",
+    "lease_expiration": "2033-03-31",
+    "square_footage": 3200,
+    "base_rent_schedule": [
+      {
+        "period": "2023-04-01 to 2024-03-31",
+        "monthly_rate": 11200,
+        "psf_annual": 42
+      },
+      {
+        "period": "2024-04-01 to 2025-03-31",
+        "monthly_rate": 11536,
+        "psf_annual": 43.26
+      },
+      {
+        "period": "2025-04-01 to 2026-03-31",
+        "monthly_rate": 11882,
+        "psf_annual": 44.56
+      },
+      {
+        "period": "2026-04-01 to 2027-03-31",
+        "monthly_rate": 12238,
+        "psf_annual": 45.89
+      },
+      {
+        "period": "2027-04-01 to 2028-03-31",
+        "monthly_rate": 12605,
+        "psf_annual": 47.27
+      }
+    ],
+    "percentage_rent": "5% of gross sales exceeding $2,240,000 annually",
+    "renewal_option": "One 5-year option at 98% FMV, 18 months notice",
+    "permitted_use": "Fast-casual restaurant specializing in health food",
+    "restrictive_clauses": [
+      "Exclusive use: Landlord will not lease to competing health-focused restaurant within building",
+      "Operating covenant: must remain open during lunch hours 11 AM - 2 PM weekdays",
+      "Grease trap maintenance required monthly with certified reports"
+    ],
+    "status": "active",
+    "notes": ""
+  },
+  {
+    "record_id": "LSE-2021-0756",
+    "record_type": "source_lease",
+    "property_address": "8350 North Central Expressway, Suite 1800, Dallas, TX 75206",
+    "tenant_name": "DataCore Analytics Inc",
+    "landlord_name": "NCX Office Tower LLC",
+    "lease_commencement": "2021-07-01",
+    "lease_expiration": "2026-06-30",
+    "square_footage": 9800,
+    "base_rent_schedule": [
+      {
+        "period": "2021-07-01 to 2022-06-30",
+        "monthly_rate": 24500,
+        "psf_annual": 30
+      },
+      {
+        "period": "2022-07-01 to 2023-06-30",
+        "monthly_rate": 25235,
+        "psf_annual": 30.9
+      },
+      {
+        "period": "2023-07-01 to 2024-06-30",
+        "monthly_rate": 25970,
+        "psf_annual": 31.8
+      },
+      {
+        "period": "2024-07-01 to 2025-06-30",
+        "monthly_rate": 26740,
+        "psf_annual": 32.74
+      },
+      {
+        "period": "2025-07-01 to 2026-06-30",
+        "monthly_rate": 27510,
+        "psf_annual": 33.68
+      }
+    ],
+    "renewal_option": "One 5-year option at FMV, 9 months notice required",
+    "permitted_use": "Data analytics, software services, and general office",
+    "restrictive_clauses": [
+      "Server room power draw not to exceed 50 kW without upgrade at tenant expense",
+      "24/7 access permitted with security card",
+      "Sublease permitted with consent, not to be unreasonably withheld"
+    ],
+    "status": "active",
+    "notes": "Tenant requested early termination in writing 2024-02-15, negotiations ongoing"
+  },
+  {
+    "record_id": "LSE-2020-1129",
+    "record_type": "source_lease",
+    "property_address": "1900 West Loop South, Suite 500, Houston, TX 77027",
+    "tenant_name": "Horizon Medical Billing Services",
+    "landlord_name": "Loop West Properties Inc",
+    "lease_commencement": "2020-10-01",
+    "lease_expiration": "2025-09-30",
+    "square_footage": 5400,
+    "base_rent_schedule": [
+      {
+        "period": "2020-10-01 to 2021-09-30",
+        "monthly_rate": 13500,
+        "psf_annual": 30
+      },
+      {
+        "period": "2021-10-01 to 2022-09-30",
+        "monthly_rate": 13905,
+        "psf_annual": 30.9
+      },
+      {
+        "period": "2022-10-01 to 2023-09-30",
+        "monthly_rate": 14310,
+        "psf_annual": 31.8
+      },
+      {
+        "period": "2023-10-01 to 2024-09-30",
+        "monthly_rate": 14742,
+        "psf_annual": 32.76
+      },
+      {
+        "period": "2024-10-01 to 2025-09-30",
+        "monthly_rate": 15174,
+        "psf_annual": 33.72
+      }
+    ],
+    "renewal_option": "None",
+    "permitted_use": "Medical billing and administrative office only, no patient care",
+    "restrictive_clauses": [
+      "HIPAA compliance required, tenant responsible for all data security",
+      "No medical waste disposal permitted on premises",
+      "Signage must not reference medical services to avoid zoning conflict"
+    ],
+    "status": "active",
+    "notes": "Zoning restriction: building not approved for medical practice, administrative only"
+  },
+  {
+    "record_id": "LSE-2019-0312",
+    "record_type": "source_lease",
+    "property_address": "4514 Travis Street, Suite 200, Dallas, TX 75205",
+    "tenant_name": "Knox Design Studio LLC",
+    "landlord_name": "Travis Street Holdings",
+    "lease_commencement": "2019-03-01",
+    "lease_expiration": "2024-02-29",
+    "square_footage": 4200,
+    "base_rent_schedule": [
+      {
+        "period": "2019-03-01 to 2020-02-29",
+        "monthly_rate": 10500,
+        "psf_annual": 30
+      },
+      {
+        "period": "2020-03-01 to 2021-02-28",
+        "monthly_rate": 10815,
+        "psf_annual": 30.9
+      },
+      {
+        "period": "2021-03-01 to 2022-02-28",
+        "monthly_rate": 11130,
+        "psf_annual": 31.8
+      },
+      {
+        "period": "2022-03-01 to 2023-02-28",
+        "monthly_rate": 11466,
+        "psf_annual": 32.76
+      },
+      {
+        "period": "2023-03-01 to 2024-02-29",
+        "monthly_rate": 11802,
+        "psf_annual": 33.72
+      }
+    ],
+    "renewal_option": "One 3-year option at 96% FMV, 6 months notice",
+    "permitted_use": "Interior design studio and showroom",
+    "restrictive_clauses": [
+      "Client meetings permitted, but no retail sales to walk-in customers",
+      "Sample storage limited to 500 SF in designated area",
+      "Delivery access restricted to rear entrance only"
+    ],
+    "status": "expired",
+    "notes": "Lease expired 2024-02-29, tenant holdover on month-to-month at 125% last rate"
+  },
+  {
+    "record_id": "LSE-2022-0614",
+    "record_type": "source_lease",
+    "property_address": "12770 Coit Road, Suite 1100, Dallas, TX 75251",
+    "tenant_name": "Summit Insurance Group",
+    "landlord_name": "Coit Road Office Park LLC",
+    "lease_commencement": "2022-08-01",
+    "lease_expiration": "2029-07-31",
+    "square_footage": 7300,
+    "base_rent_schedule": [
+      {
+        "period": "2022-08-01 to 2023-07-31",
+        "monthly_rate": 16790,
+        "psf_annual": 27.6
+      },
+      {
+        "period": "2023-08-01 to 2024-07-31",
+        "monthly_rate": 17301,
+        "psf_annual": 28.44
+      },
+      {
+        "period": "2024-08-01 to 2025-07-31",
+        "monthly_rate": 17812,
+        "psf_annual": 29.28
+      },
+      {
+        "period": "2025-08-01 to 2026-07-31",
+        "monthly_rate": 18323,
+        "psf_annual": 30.12
+      },
+      {
+        "period": "2026-08-01 to 2027-07-31",
+        "monthly_rate": 18834,
+        "psf_annual": 30.96
+      },
+      {
+        "period": "2027-08-01 to 2028-07-31",
+        "monthly_rate": 19345,
+        "psf_annual": 31.8
+      },
+      {
+        "period": "2028-08-01 to 2029-07-31",
+        "monthly_rate": 19856,
+        "psf_annual": 32.64
+      }
+    ],
+    "renewal_option": "Two 5-year options at market, 12 months notice",
+    "permitted_use": "Insurance brokerage and related office activities",
+    "restrictive_clauses": [
+      "Parking: 22 reserved spaces in covered garage",
+      "Tenant may install supplemental HVAC for server room at own cost",
+      "Landlord retains right to relocate tenant to comparable space with 180 days notice and relocation costs paid"
+    ],
+    "status": "active",
+    "notes": "Relocation clause disputed by tenant legal counsel, amendment pending"
+  },
+  {
+    "record_id": "REG-2023-R001",
+    "record_type": "registry_record",
+    "property_address": "1250 Commerce Street, Suite 400, Dallas, TX 75201",
+    "current_status": "vacant",
+    "last_tenant": "Apex Financial Advisors LLC",
+    "last_lease_id": "LSE-2019-0847",
+    "lease_end_date": "2024-05-31",
+    "renewal_exercised": false,
+    "marketing_status": "available",
+    "asking_rent_psf": 34,
+    "notes": "Suite requires minor refresh, available immediately"
+  },
+  {
+    "record_id": "REG-2023-R002",
+    "record_type": "registry_record",
+    "property_address": "7500 San Felipe Street, Suite 1100, Houston, TX 77063",
+    "current_status": "occupied",
+    "last_tenant": "Meridian Capital Partners LLC",
+    "last_lease_id": "LSE-2018-0421",
+    "lease_end_date": "2023-10-31",
+    "renewal_exercised": true,
+    "renewal_commencement": "2023-11-01",
+    "renewal_expiration": "2028-10-31",
+    "notes": "First renewal option exercised verbally, written amendment executed 2023-09-12, new lease ID LSE-2023-1104 not yet in system"
+  },
+  {
+    "record_id": "REG-2024-R003",
+    "record_type": "registry_record",
+    "property_address": "4514 Travis Street, Suite 200, Dallas, TX 75205",
+    "current_status": "holdover",
+    "last_tenant": "Knox Design Studio LLC",
+    "last_lease_id": "LSE-2019-0312",
+    "lease_end_date": "2024-02-29",
+    "renewal_exercised": false,
+    "holdover_rate_monthly": 14752.5,
+    "notes": "Tenant on month-to-month holdover since March 2024, negotiations for new 2-year term in progress"
+  },
+  {
+    "record_id": "REG-2024-R004",
+    "record_type": "registry_record",
+    "property_address": "8350 North Central Expressway, Suite 1800, Dallas, TX 75206",
+    "current_status": "occupied_early_term_pending",
+    "last_tenant": "DataCore Analytics Inc",
+    "last_lease_id": "LSE-2021-0756",
+    "lease_end_date": "2026-06-30",
+    "early_termination_request_date": "2024-02-15",
+    "proposed_termination_date": "2024-12-31",
+    "termination_fee_proposed": 82530,
+    "notes": "Tenant citing downsizing, landlord evaluating buyout terms, no agreement finalized"
+  },
+  {
+    "record_id": "CONFLICT-001",
+    "record_type": "conflict_flag",
+    "lease_id": "LSE-2020-0562",
+    "property_address": "920 Main Street, Ground Floor, Houston, TX 77002",
+    "conflict_type": "restrictive_clause_violation_risk",
+    "description": "Landlord clause permits competing coffee retailer in same building; tenant Urban Grind may challenge if new lease executed for adjacent space",
+    "flagged_date": "2024-03-10",
+    "resolution_status": "unresolved",
+    "notes": "Prospective tenant 'Daily Brew Coffee' touring adjacent space 920-B, lease terms under negotiation"
+  },
+  {
+    "record_id": "CONFLICT-002",
+    "record_type": "conflict_flag",
+    "lease_id": "LSE-2022-0614",
+    "property_address": "12770 Coit Road, Suite 1100, Dallas, TX 75251",
+    "conflict_type": "disputed_clause",
+    "description": "Relocation clause allows landlord to move tenant with 180 days notice; tenant claims clause is unconscionable and unenforceable",
+    "flagged_date": "2024-01-22",
+    "resolution_status": "legal_review",
+    "notes": "Tenant counsel sent objection letter, landlord considering amendment to remove or modify clause"
+  },
+  {
+    "record_id": "CONFLICT-003",
+    "record_type": "conflict_flag",
+    "lease_id": "LSE-2018-0421",
+    "property_address": "7500 San Felipe Street, Suite 1100, Houston, TX 77063",
+    "conflict_type": "missing_documentation",
+    "description": "Renewal option exercised per registry but renewal lease amendment not found in document management system",
+    "flagged_date": "2024-04-05",
+    "resolution_status": "pending_upload",
+    "notes": "Landlord confirms execution, scanning and upload of LSE-2023-1104 in progress"
+  },
+  {
+    "record_id": "PROTOCOL-001",
+    "record_type": "drafting_protocol",
+    "protocol_name": "Standard Office Lease Renewal Amendment",
+    "applies_to": "Office leases with renewal options",
+    "required_fields": [
+      "original_lease_id",
+      "renewal_term_years",
+      "new_commencement_date",
+      "new_expiration_date",
+      "rent_schedule_renewal_period",
+      "confirmation_all_other_terms_unchanged"
+    ],
+    "approval_workflow": "Tenant signature -> Landlord signature -> Legal review -> Registry update",
+    "notes": "Use template DOC-TMPL-REN-OFF-2023 for all office renewals"
+  }
+]

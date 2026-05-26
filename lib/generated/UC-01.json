@@ -1,0 +1,659 @@
+[
+  {
+    "id": "ww2-d-day-001",
+    "title": "D-Day: The First Wave",
+    "series": "World War II Chronicles",
+    "genre": "war",
+    "year": 2019,
+    "durationSec": 2640,
+    "sourceUrl": "https://archive.example.com/ww2/d-day-first-wave.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/d-day-001.jpg",
+    "beats": [
+      {
+        "beatType": "interview",
+        "startSec": 0,
+        "endSec": 180,
+        "description": "Veteran John Miller recounts landing at Omaha Beach"
+      },
+      {
+        "beatType": "archival_footage",
+        "startSec": 180,
+        "endSec": 420,
+        "description": "Restored color footage of landing craft approaching Normandy"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 1200,
+        "endSec": 1380,
+        "description": "First soldiers reach the seawall under heavy fire"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 2100,
+        "endSec": 2400,
+        "description": "Historian explains tactical decisions"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "Worldwide",
+      "exclusivity": "none",
+      "expiresOn": "2027-06-15",
+      "note": null
+    }
+  },
+  {
+    "id": "tc-zodiac-003",
+    "title": "The Zodiac Cipher",
+    "series": "Unsolved: True Crime Files",
+    "genre": "true-crime",
+    "year": 2021,
+    "durationSec": 3180,
+    "sourceUrl": "https://archive.example.com/crime/zodiac-cipher.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/zodiac-003.jpg",
+    "beats": [
+      {
+        "beatType": "case_overview",
+        "startSec": 0,
+        "endSec": 240,
+        "description": "Introduction to Zodiac killer case and cryptograms"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 240,
+        "endSec": 720,
+        "description": "Cryptographer discusses Z340 cipher breakthrough"
+      },
+      {
+        "beatType": "evidence_review",
+        "startSec": 1440,
+        "endSec": 1920,
+        "description": "Original police reports and letters examined"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 2700,
+        "endSec": 2940,
+        "description": "Revelation of decoded message content"
+      }
+    ],
+    "rights": {
+      "status": "restricted",
+      "territory": "US-only",
+      "exclusivity": "FAST-exclusive",
+      "expiresOn": "2025-12-31",
+      "note": "Exclusive to FAST platforms until expiration"
+    }
+  },
+  {
+    "id": "hist-titanic-007",
+    "title": "Titanic: The Final Hours",
+    "series": "Maritime Disasters",
+    "genre": "history",
+    "year": 2018,
+    "durationSec": 2880,
+    "sourceUrl": "https://archive.example.com/history/titanic-final-hours.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/titanic-007.jpg",
+    "beats": [
+      {
+        "beatType": "reenactment",
+        "startSec": 0,
+        "endSec": 360,
+        "description": "Ship strikes iceberg at 11:40 PM"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 360,
+        "endSec": 720,
+        "description": "Naval architect explains structural failure"
+      },
+      {
+        "beatType": "archival_footage",
+        "startSec": 1200,
+        "endSec": 1560,
+        "description": "Underwater wreckage exploration"
+      },
+      {
+        "beatType": "emotional_moment",
+        "startSec": 2400,
+        "endSec": 2700,
+        "description": "Survivor testimonies from 1912 interviews"
+      }
+    ],
+    "rights": {
+      "status": "expired",
+      "territory": "Worldwide",
+      "exclusivity": "none",
+      "expiresOn": "2023-08-01",
+      "note": "Rights expired, renewal in negotiation"
+    }
+  },
+  {
+    "id": "reality-alaska-012",
+    "title": "Frozen Frontier: Winter Survival",
+    "series": "Alaska Wilderness",
+    "genre": "reality",
+    "year": 2022,
+    "durationSec": 2520,
+    "sourceUrl": "https://archive.example.com/reality/alaska-winter-012.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/alaska-012.jpg",
+    "beats": [
+      {
+        "beatType": "challenge_intro",
+        "startSec": 0,
+        "endSec": 120,
+        "description": "Family prepares for -40°F blizzard"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 600,
+        "endSec": 840,
+        "description": "Generator fails during storm"
+      },
+      {
+        "beatType": "resolution",
+        "startSec": 1800,
+        "endSec": 2100,
+        "description": "Emergency repairs completed"
+      },
+      {
+        "beatType": "reflection",
+        "startSec": 2280,
+        "endSec": 2520,
+        "description": "Family discusses lessons learned"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "US-only",
+      "exclusivity": "none",
+      "expiresOn": null,
+      "note": "Perpetual US rights"
+    }
+  },
+  {
+    "id": "war-vietnam-019",
+    "title": "Tet Offensive: Turning Point",
+    "series": "Vietnam War Declassified",
+    "genre": "war",
+    "year": 2020,
+    "durationSec": 3360,
+    "sourceUrl": "https://archive.example.com/vietnam/tet-offensive.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/vietnam-019.jpg",
+    "beats": [
+      {
+        "beatType": "archival_footage",
+        "startSec": 0,
+        "endSec": 480,
+        "description": "Declassified combat footage from Saigon"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 480,
+        "endSec": 960,
+        "description": "General discusses intelligence failures"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 1680,
+        "endSec": 2040,
+        "description": "Embassy siege unfolds"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 2880,
+        "endSec": 3240,
+        "description": "Impact on American public opinion"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "Worldwide",
+      "exclusivity": "none",
+      "expiresOn": "2029-03-20",
+      "note": null
+    }
+  },
+  {
+    "id": "tc-bundy-005",
+    "title": "Ted Bundy: The Escape",
+    "series": "Serial Killers Unmasked",
+    "genre": "true-crime",
+    "year": 2017,
+    "durationSec": 2760,
+    "sourceUrl": "https://archive.example.com/crime/bundy-escape.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/bundy-005.jpg",
+    "beats": [
+      {
+        "beatType": "case_overview",
+        "startSec": 0,
+        "endSec": 300,
+        "description": "Bundy's 1977 Colorado courthouse escape"
+      },
+      {
+        "beatType": "reenactment",
+        "startSec": 300,
+        "endSec": 720,
+        "description": "Dramatic recreation of jump from window"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 1200,
+        "endSec": 1680,
+        "description": "Former detective describes manhunt"
+      },
+      {
+        "beatType": "evidence_review",
+        "startSec": 2160,
+        "endSec": 2580,
+        "description": "Timeline of six-day freedom"
+      }
+    ],
+    "rights": {
+      "status": "restricted",
+      "territory": "EU-only",
+      "exclusivity": "none",
+      "expiresOn": "2026-05-10",
+      "note": "Victim family requested US restriction"
+    }
+  },
+  {
+    "id": "hist-apollo13-002",
+    "title": "Apollo 13: Houston, We Have a Problem",
+    "series": "Space Race",
+    "genre": "history",
+    "year": 2019,
+    "durationSec": 3120,
+    "sourceUrl": "https://archive.example.com/space/apollo13-crisis.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/apollo13-002.jpg",
+    "beats": [
+      {
+        "beatType": "archival_footage",
+        "startSec": 0,
+        "endSec": 420,
+        "description": "Launch and mission overview"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 840,
+        "endSec": 1140,
+        "description": "Oxygen tank explosion"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 1560,
+        "endSec": 1980,
+        "description": "Engineers explain CO2 scrubber solution"
+      },
+      {
+        "beatType": "resolution",
+        "startSec": 2700,
+        "endSec": 3000,
+        "description": "Successful splashdown in Pacific"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "Worldwide",
+      "exclusivity": "FAST-exclusive",
+      "expiresOn": "2025-04-17",
+      "note": "FAST exclusive through 50th anniversary"
+    }
+  },
+  {
+    "id": "reality-storage-034",
+    "title": "Storage Wars: The Million Dollar Locker",
+    "series": "Storage Hunters",
+    "genre": "reality",
+    "year": 2021,
+    "durationSec": 1320,
+    "sourceUrl": "https://archive.example.com/reality/storage-034.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/storage-034.jpg",
+    "beats": [
+      {
+        "beatType": "challenge_intro",
+        "startSec": 0,
+        "endSec": 180,
+        "description": "Bidders arrive at auction"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 420,
+        "endSec": 600,
+        "description": "Rare baseball cards discovered"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 780,
+        "endSec": 960,
+        "description": "Appraiser values collection"
+      },
+      {
+        "beatType": "resolution",
+        "startSec": 1080,
+        "endSec": 1260,
+        "description": "Final profit reveal"
+      }
+    ],
+    "rights": {
+      "status": "expired",
+      "territory": "US-only",
+      "exclusivity": "none",
+      "expiresOn": "2024-01-15",
+      "note": "Rights lapsed, participants dispute renewal terms"
+    }
+  },
+  {
+    "id": "war-korea-008",
+    "title": "Chosin Reservoir: Frozen Hell",
+    "series": "Korean War Stories",
+    "genre": "war",
+    "year": 2018,
+    "durationSec": 2940,
+    "sourceUrl": "https://archive.example.com/korea/chosin-reservoir.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/korea-008.jpg",
+    "beats": [
+      {
+        "beatType": "interview",
+        "startSec": 0,
+        "endSec": 360,
+        "description": "Marine veteran describes -35°F conditions"
+      },
+      {
+        "beatType": "archival_footage",
+        "startSec": 360,
+        "endSec": 840,
+        "description": "Chinese forces surround UN troops"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 1560,
+        "endSec": 1920,
+        "description": "Breakout begins under fire"
+      },
+      {
+        "beatType": "reflection",
+        "startSec": 2640,
+        "endSec": 2940,
+        "description": "Survivors reunite 70 years later"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "Worldwide",
+      "exclusivity": "none",
+      "expiresOn": "2028-11-30",
+      "note": null
+    }
+  },
+  {
+    "id": "tc-jonbenet-011",
+    "title": "JonBenét: The Ransom Note",
+    "series": "Cold Case Files",
+    "genre": "true-crime",
+    "year": 2020,
+    "durationSec": 2700,
+    "sourceUrl": "https://archive.example.com/crime/jonbenet-ransom.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/jonbenet-011.jpg",
+    "beats": [
+      {
+        "beatType": "case_overview",
+        "startSec": 0,
+        "endSec": 300,
+        "description": "December 1996 crime scene"
+      },
+      {
+        "beatType": "evidence_review",
+        "startSec": 300,
+        "endSec": 900,
+        "description": "Forensic analysis of ransom note"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 1200,
+        "endSec": 1800,
+        "description": "Handwriting expert testimony"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 2280,
+        "endSec": 2580,
+        "description": "New DNA evidence revealed"
+      }
+    ],
+    "rights": {
+      "status": "restricted",
+      "territory": "US-only",
+      "exclusivity": "none",
+      "expiresOn": "2025-08-30",
+      "note": "Boulder PD approval required for distribution"
+    }
+  },
+  {
+    "id": "hist-berlin-wall-004",
+    "title": "The Fall of the Berlin Wall",
+    "series": "Cold War Chronicles",
+    "genre": "history",
+    "year": 2019,
+    "durationSec": 3000,
+    "sourceUrl": "https://archive.example.com/coldwar/berlin-wall-fall.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/berlin-004.jpg",
+    "beats": [
+      {
+        "beatType": "archival_footage",
+        "startSec": 0,
+        "endSec": 480,
+        "description": "November 9, 1989 crowds gather"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 480,
+        "endSec": 960,
+        "description": "East German border guard recalls confusion"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 1440,
+        "endSec": 1860,
+        "description": "First hammers strike the wall"
+      },
+      {
+        "beatType": "reflection",
+        "startSec": 2520,
+        "endSec": 2940,
+        "description": "Reunited families celebrate"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "EU-only",
+      "exclusivity": "none",
+      "expiresOn": null,
+      "note": "Perpetual EU rights, German archive partnership"
+    }
+  },
+  {
+    "id": "reality-deadliest-catch-089",
+    "title": "Deadliest Catch: Rogue Wave",
+    "series": "Deadliest Catch",
+    "genre": "reality",
+    "year": 2022,
+    "durationSec": 2580,
+    "sourceUrl": "https://archive.example.com/reality/deadliest-089.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/deadliest-089.jpg",
+    "beats": [
+      {
+        "beatType": "challenge_intro",
+        "startSec": 0,
+        "endSec": 240,
+        "description": "Storm warnings in Bering Sea"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 720,
+        "endSec": 1080,
+        "description": "30-foot wave hits deck"
+      },
+      {
+        "beatType": "emotional_moment",
+        "startSec": 1560,
+        "endSec": 1860,
+        "description": "Crew member injured, medevac called"
+      },
+      {
+        "beatType": "resolution",
+        "startSec": 2220,
+        "endSec": 2520,
+        "description": "Coast Guard rescue successful"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "Worldwide",
+      "exclusivity": "none",
+      "expiresOn": "2030-06-01",
+      "note": null
+    }
+  },
+  {
+    "id": "war-gulf-war-015",
+    "title": "Desert Storm: 100 Hours",
+    "series": "Modern Warfare",
+    "genre": "war",
+    "year": 2021,
+    "durationSec": 3240,
+    "sourceUrl": "https://archive.example.com/gulf/desert-storm-100hrs.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/gulf-015.jpg",
+    "beats": [
+      {
+        "beatType": "archival_footage",
+        "startSec": 0,
+        "endSec": 540,
+        "description": "Night vision footage of Baghdad bombing"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 540,
+        "endSec": 1080,
+        "description": "General Schwarzkopf discusses strategy"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 1800,
+        "endSec": 2160,
+        "description": "Ground offensive begins"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 2760,
+        "endSec": 3120,
+        "description": "Technology advantage assessment"
+      }
+    ],
+    "rights": {
+      "status": "expired",
+      "territory": "Worldwide",
+      "exclusivity": "none",
+      "expiresOn": "2024-02-28",
+      "note": "Pentagon clearance expired, resubmission pending"
+    }
+  },
+  {
+    "id": "tc-golden-state-killer-002",
+    "title": "Golden State Killer: DNA Breakthrough",
+    "series": "Breakthrough: Solved Cases",
+    "genre": "true-crime",
+    "year": 2023,
+    "durationSec": 3420,
+    "sourceUrl": "https://archive.example.com/crime/gsk-dna-breakthrough.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/gsk-002.jpg",
+    "beats": [
+      {
+        "beatType": "case_overview",
+        "startSec": 0,
+        "endSec": 420,
+        "description": "40-year cold case summary"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 420,
+        "endSec": 1020,
+        "description": "Genealogy database methodology explained"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 1800,
+        "endSec": 2220,
+        "description": "Arrest of Joseph DeAngelo"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 2640,
+        "endSec": 3180,
+        "description": "Survivors react to capture"
+      },
+      {
+        "beatType": "resolution",
+        "startSec": 3180,
+        "endSec": 3420,
+        "description": "Sentencing and victim impact"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "US-only",
+      "exclusivity": "FAST-exclusive",
+      "expiresOn": "2026-12-31",
+      "note": "Exclusive through appeals process"
+    }
+  },
+  {
+    "id": "hist-chernobyl-001",
+    "title": "Chernobyl: The First 24 Hours",
+    "series": "Nuclear Disasters",
+    "genre": "history",
+    "year": 2020,
+    "durationSec": 3360,
+    "sourceUrl": "https://archive.example.com/disasters/chernobyl-24hrs.mp4",
+    "thumbnailUrl": "https://cdn.example.com/thumbs/chernobyl-001.jpg",
+    "beats": [
+      {
+        "beatType": "reenactment",
+        "startSec": 0,
+        "endSec": 480,
+        "description": "Reactor 4 explosion at 1:23 AM"
+      },
+      {
+        "beatType": "interview",
+        "startSec": 480,
+        "endSec": 1080,
+        "description": "Plant worker describes chaos"
+      },
+      {
+        "beatType": "archival_footage",
+        "startSec": 1440,
+        "endSec": 1920,
+        "description": "Soviet news footage and denials"
+      },
+      {
+        "beatType": "dramatic_moment",
+        "startSec": 2520,
+        "endSec": 2940,
+        "description": "Firefighters battle graphite fire"
+      },
+      {
+        "beatType": "expert_analysis",
+        "startSec": 3000,
+        "endSec": 3360,
+        "description": "Radiation spread modeling"
+      }
+    ],
+    "rights": {
+      "status": "cleared",
+      "territory": "Worldwide",
+      "exclusivity": "none",
+      "expiresOn": "2028-04-26",
+      "note": "Ukrainian archive partnership"
+    }
+  }
+]

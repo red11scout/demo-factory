@@ -1,0 +1,466 @@
+[
+  {
+    "record_id": "DOC-2024-001",
+    "record_type": "source_contract",
+    "title": "Theatrical Distribution Agreement - 'Midnight Protocol'",
+    "parties": [
+      "Apex Studios LLC",
+      "Northern Lights Distribution AB"
+    ],
+    "territory": [
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Iceland"
+    ],
+    "media_rights": [
+      "Theatrical",
+      "Non-Theatrical"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2024-03-01",
+    "term_end": "2027-02-28",
+    "holdback_windows": {
+      "SVOD": "120 days post-theatrical",
+      "AVOD": "180 days post-theatrical",
+      "Free_TV": "24 months post-theatrical"
+    },
+    "minimum_guarantee": 450000,
+    "currency": "USD",
+    "talent_approvals_required": [
+      "Director",
+      "Lead Actor"
+    ],
+    "music_clearances": "All music cleared for worldwide theatrical; Nordic broadcast requires separate clearance for 3 tracks",
+    "conflict_notes": "Overlaps with DOC-2023-089 for Norway theatrical rights until 2024-06-30"
+  },
+  {
+    "record_id": "DOC-2024-002",
+    "record_type": "source_contract",
+    "title": "SVOD License Agreement - 'The Last Horizon' Series",
+    "parties": [
+      "Cascade Entertainment Inc",
+      "StreamVault Global"
+    ],
+    "territory": [
+      "United States",
+      "Canada",
+      "Mexico"
+    ],
+    "media_rights": [
+      "SVOD",
+      "EST"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2023-11-15",
+    "term_end": "2025-11-14",
+    "revenue_share": "60/40 split favoring licensor",
+    "minimum_streams_guarantee": 2000000,
+    "talent_approvals_required": [],
+    "music_clearances": "Full clearance except Episode 4 contains uncleared sample; replacement track required for distribution",
+    "subtitle_languages": [
+      "English",
+      "Spanish",
+      "French"
+    ],
+    "conflict_notes": "None"
+  },
+  {
+    "record_id": "DOC-2023-089",
+    "record_type": "prior_registry_entry",
+    "title": "Nordic Theatrical Rights - 'Midnight Protocol'",
+    "licensee": "Oslo Film Partners AS",
+    "territory": [
+      "Norway"
+    ],
+    "media_rights": [
+      "Theatrical"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2023-01-10",
+    "term_end": "2024-06-30",
+    "status": "Active - Expiring Soon",
+    "notes": "Original Nordic deal before territory split; creates 4-month overlap with DOC-2024-001"
+  },
+  {
+    "record_id": "DOC-2024-003",
+    "record_type": "source_contract",
+    "title": "Music Synchronization License - 'Electric Dreams' by The Neon Collective",
+    "parties": [
+      "Harmony Rights Management",
+      "Apex Studios LLC"
+    ],
+    "licensed_for": "Film: 'Midnight Protocol'",
+    "territory": [
+      "Worldwide"
+    ],
+    "media_rights": [
+      "Theatrical",
+      "Home Video",
+      "SVOD",
+      "AVOD",
+      "EST"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2024-01-20",
+    "term_end": "Perpetual",
+    "fee": 35000,
+    "currency": "USD",
+    "usage_restrictions": "Master recording only; no remix or derivative works; max 90 seconds duration",
+    "conflict_notes": "None"
+  },
+  {
+    "record_id": "DOC-2024-004",
+    "record_type": "source_contract",
+    "title": "Talent Likeness & Publicity Rights - Sarah Chen",
+    "parties": [
+      "Sarah Chen",
+      "Cascade Entertainment Inc"
+    ],
+    "project": "'The Last Horizon' Series",
+    "territory": [
+      "Worldwide"
+    ],
+    "rights_granted": [
+      "Likeness",
+      "Name",
+      "Voice",
+      "Biographical Material"
+    ],
+    "exclusivity": "Non-Exclusive for promotional purposes",
+    "term_start": "2023-08-01",
+    "term_end": "2028-07-31",
+    "compensation": "Included in principal acting agreement",
+    "approval_rights": "Talent has approval over all paid endorsements and merchandise exceeding $50k retail value",
+    "conflict_notes": "Talent has conflicting exclusivity with 'Aurora Cosmetics' for beauty product endorsements in Asia-Pacific until 2025-12-31"
+  },
+  {
+    "record_id": "DOC-2024-005",
+    "record_type": "source_contract",
+    "title": "Free Television Broadcast License - 'Quantum Leap' Film Library (12 titles)",
+    "parties": [
+      "Vintage Vault Pictures",
+      "National Broadcast Network"
+    ],
+    "territory": [
+      "United Kingdom",
+      "Ireland"
+    ],
+    "media_rights": [
+      "Free TV",
+      "Catch-up TV (7 days)"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2024-01-01",
+    "term_end": "2026-12-31",
+    "license_fee": 1200000,
+    "currency": "GBP",
+    "broadcast_runs": "Maximum 4 broadcasts per title per year",
+    "holdback_windows": "No SVOD release in territory during term",
+    "music_clearances": "8 of 12 titles fully cleared; 4 titles require music cue sheets review and possible re-clearance",
+    "conflict_notes": "Title 'Quantum Leap: Resurrection' has active SVOD deal with BritStream until 2024-09-30 - violates holdback"
+  },
+  {
+    "record_id": "DOC-2023-112",
+    "record_type": "prior_registry_entry",
+    "title": "UK SVOD Rights - 'Quantum Leap: Resurrection'",
+    "licensee": "BritStream Ltd",
+    "territory": [
+      "United Kingdom"
+    ],
+    "media_rights": [
+      "SVOD"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2022-10-01",
+    "term_end": "2024-09-30",
+    "status": "Active",
+    "notes": "Conflicts with Free TV holdback in DOC-2024-005 for 9 months"
+  },
+  {
+    "record_id": "DOC-2024-006",
+    "record_type": "source_contract",
+    "title": "Format Rights & Remake License - 'Family Matters' TV Format",
+    "parties": [
+      "Global Format Group SA",
+      "Lotus Productions KK"
+    ],
+    "territory": [
+      "Japan",
+      "South Korea"
+    ],
+    "rights_granted": [
+      "Local Language Remake",
+      "Format Bible",
+      "Scripts",
+      "Consulting Services"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2024-02-15",
+    "term_end": "2029-02-14",
+    "license_fee": 800000,
+    "currency": "USD",
+    "episodes_licensed": "Up to 100 episodes",
+    "talent_approvals_required": [
+      "Original Creator for script changes exceeding 30% deviation"
+    ],
+    "music_clearances": "Original music not included; licensee must clear all music independently",
+    "conflict_notes": "None"
+  },
+  {
+    "record_id": "DOC-2024-007",
+    "record_type": "source_contract",
+    "title": "AVOD Distribution Agreement - 'Classic Cinema Collection' (45 titles)",
+    "parties": [
+      "Heritage Films Archive",
+      "AdStream Networks Inc"
+    ],
+    "territory": [
+      "United States",
+      "Canada"
+    ],
+    "media_rights": [
+      "AVOD",
+      "FAST Channels"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2024-04-01",
+    "term_end": "2027-03-31",
+    "revenue_share": "50/50 net advertising revenue",
+    "minimum_annual_guarantee": 150000,
+    "currency": "USD",
+    "content_restrictions": "Titles rated above PG-13 restricted to post-9pm slots",
+    "music_clearances": "23 titles have expired music licenses; re-clearance in progress; 22 titles fully cleared",
+    "conflict_notes": "Licensor unable to confirm chain of title for 3 titles; delivery delayed pending documentation"
+  },
+  {
+    "record_id": "DOC-2023-145",
+    "record_type": "prior_registry_entry",
+    "title": "North America AVOD Rights - 'Classic Cinema Collection' (subset)",
+    "licensee": "VintageView Streaming",
+    "territory": [
+      "United States",
+      "Canada"
+    ],
+    "media_rights": [
+      "AVOD"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2022-06-01",
+    "term_end": "2024-05-31",
+    "status": "Active - Expiring Soon",
+    "titles_count": 18,
+    "notes": "Subset of titles overlap with DOC-2024-007; non-exclusive so no conflict"
+  },
+  {
+    "record_id": "DOC-2024-008",
+    "record_type": "source_contract",
+    "title": "Theatrical & Ancillary Rights - 'Echoes of Tomorrow'",
+    "parties": [
+      "Meridian Pictures",
+      "CineWorld Distributors Pty Ltd"
+    ],
+    "territory": [
+      "Australia",
+      "New Zealand",
+      "Papua New Guinea"
+    ],
+    "media_rights": [
+      "Theatrical",
+      "Non-Theatrical",
+      "Home Video",
+      "EST",
+      "TVOD"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2024-06-01",
+    "term_end": "2031-05-31",
+    "minimum_guarantee": 275000,
+    "currency": "AUD",
+    "holdback_windows": {
+      "SVOD": "150 days post-theatrical",
+      "Pay_TV": "90 days post-theatrical",
+      "Free_TV": "30 months post-theatrical"
+    },
+    "talent_approvals_required": [
+      "Director for marketing materials",
+      "Lead Actress for publicity appearances"
+    ],
+    "music_clearances": "All cleared except orchestral score - composer retains concert performance rights",
+    "conflict_notes": "None"
+  },
+  {
+    "record_id": "DOC-2024-009",
+    "record_type": "source_contract",
+    "title": "Music Clearance - 'Sunset Boulevard' by Retro Wave",
+    "parties": [
+      "Sonic Pulse Publishing",
+      "Cascade Entertainment Inc"
+    ],
+    "licensed_for": "Series: 'The Last Horizon' - Episode 4",
+    "territory": [
+      "North America",
+      "Europe"
+    ],
+    "media_rights": [
+      "SVOD",
+      "AVOD",
+      "Broadcast TV"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2023-09-10",
+    "term_end": "2025-09-09",
+    "fee": 12000,
+    "currency": "USD",
+    "usage_restrictions": "Background use only; max 45 seconds; not available for Asia-Pacific or Latin America",
+    "conflict_notes": "Territory restriction conflicts with StreamVault Global's LATAM expansion plans for 'The Last Horizon'"
+  },
+  {
+    "record_id": "DOC-2023-201",
+    "record_type": "prior_registry_entry",
+    "title": "Latin America SVOD Rights - 'The Last Horizon' Series",
+    "licensee": "StreamVault Global",
+    "territory": [
+      "Mexico",
+      "Central America",
+      "South America"
+    ],
+    "media_rights": [
+      "SVOD"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2024-08-01",
+    "term_end": "2026-07-31",
+    "status": "Pending Activation",
+    "notes": "Music clearance gap in Episode 4 prevents LATAM launch; see DOC-2024-009"
+  },
+  {
+    "record_id": "DOC-2024-010",
+    "record_type": "source_contract",
+    "title": "Pay TV Window License - 'Midnight Protocol'",
+    "parties": [
+      "Apex Studios LLC",
+      "Premium Cable Network"
+    ],
+    "territory": [
+      "United States"
+    ],
+    "media_rights": [
+      "Pay TV",
+      "Pay TV VOD"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2024-09-15",
+    "term_end": "2025-09-14",
+    "license_fee": 950000,
+    "currency": "USD",
+    "broadcast_premiere": "2024-09-15",
+    "runs_permitted": "Unlimited during term",
+    "holdback_windows": "Follows theatrical release; precedes SVOD by 30 days",
+    "talent_approvals_required": [],
+    "music_clearances": "Fully cleared for Pay TV",
+    "conflict_notes": "None"
+  },
+  {
+    "record_id": "DOC-2024-011",
+    "record_type": "source_contract",
+    "title": "Merchandising & Consumer Products License - 'The Last Horizon'",
+    "parties": [
+      "Cascade Entertainment Inc",
+      "Galaxy Merchandise Corp"
+    ],
+    "territory": [
+      "Worldwide excluding Japan"
+    ],
+    "rights_granted": [
+      "Apparel",
+      "Toys",
+      "Collectibles",
+      "Home Goods",
+      "Stationery"
+    ],
+    "exclusivity": "Exclusive per category",
+    "term_start": "2024-03-01",
+    "term_end": "2027-02-28",
+    "royalty_rate": "12% of net sales",
+    "minimum_annual_royalty": 200000,
+    "currency": "USD",
+    "talent_approvals_required": [
+      "Lead Actor Sarah Chen for products using her likeness - conflicts with DOC-2024-004 Asia-Pacific beauty exclusivity"
+    ],
+    "conflict_notes": "Sarah Chen's cosmetics exclusivity in Asia-Pacific may restrict beauty-adjacent merchandise categories"
+  },
+  {
+    "record_id": "DOC-2023-078",
+    "record_type": "prior_registry_entry",
+    "title": "Japan Merchandising Rights - 'The Last Horizon'",
+    "licensee": "Tokyo Character Goods KK",
+    "territory": [
+      "Japan"
+    ],
+    "rights_granted": [
+      "Apparel",
+      "Toys",
+      "Stationery"
+    ],
+    "exclusivity": "Exclusive",
+    "term_start": "2023-05-01",
+    "term_end": "2026-04-30",
+    "status": "Active",
+    "notes": "Explains Japan exclusion in DOC-2024-011; separate deal pre-existing"
+  },
+  {
+    "record_id": "DOC-2024-012",
+    "record_type": "source_contract",
+    "title": "Airline & Hospitality In-Flight Entertainment License - Film Package A (8 titles)",
+    "parties": [
+      "Consolidated Entertainment Licensing",
+      "SkyHigh Airlines Group"
+    ],
+    "territory": [
+      "Worldwide"
+    ],
+    "media_rights": [
+      "In-Flight Entertainment",
+      "In-Ship Entertainment"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2024-05-01",
+    "term_end": "2025-04-30",
+    "license_fee": 95000,
+    "currency": "USD",
+    "content_delivery": "Encrypted hard drives; quarterly updates",
+    "music_clearances": "All titles cleared for in-flight use; no additional clearances required",
+    "conflict_notes": "None"
+  },
+  {
+    "record_id": "DOC-2024-013",
+    "record_type": "source_contract",
+    "title": "Educational & Institutional Screening Rights - 'Voices of Change' Documentary",
+    "parties": [
+      "Impact Films Collective",
+      "University Screening Network"
+    ],
+    "territory": [
+      "United States",
+      "Canada",
+      "United Kingdom"
+    ],
+    "media_rights": [
+      "Non-Theatrical Educational Screenings",
+      "Digital Classroom Streaming"
+    ],
+    "exclusivity": "Non-Exclusive",
+    "term_start": "2024-01-15",
+    "term_end": "2029-01-14",
+    "license_fee": 25000,
+    "currency": "USD",
+    "usage_restrictions": "Educational institutions only; no public theatrical screenings; max 500 simultaneous streams",
+    "talent_approvals_required": [
+      "Documentary subjects for any promotional use of their interviews"
+    ],
+    "music_clearances": "Educational use cleared; commercial broadcast requires separate clearance",
+    "conflict_notes": "Expired E&O insurance as of 2024-03-01; renewal required before content delivery"
+  }
+]
