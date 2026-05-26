@@ -37,9 +37,20 @@ export async function POST(req: Request) {
     return await handle(req);
   } catch (e) {
     const err = e as Error;
+    // Known limitation: @huggingface/transformers loads onnxruntime-node native
+    // binaries (libonnxruntime.so) that Vercel's Turbopack bundler strips. Until
+    // we wire EMBEDDINGS_PROVIDER=qwen3 (needs HF_TOKEN) or another remote
+    // embedding API, the semantic_search archetype is dev-only.
+    const isOnnx = /libonnxruntime|onnxruntime-node|huggingface\/transformers/i.test(
+      err.message ?? "",
+    );
     return NextResponse.json(
-      { error: err.message, name: err.name, stack: (err.stack ?? "").split("\n").slice(0, 5) },
-      { status: 500 },
+      {
+        error: isOnnx
+          ? "Semantic-search demo (UC-01) requires a remote embedding provider on Vercel. Set EMBEDDINGS_PROVIDER=qwen3 + HF_TOKEN, or wire OpenAI/Voyage/Cohere in lib/embeddings.ts. Try the MV-04, PRT-02, AE-02, GA-03 demos in the meantime."
+          : err.message,
+      },
+      { status: 503 },
     );
   }
 }
